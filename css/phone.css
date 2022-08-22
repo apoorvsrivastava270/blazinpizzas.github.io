@@ -1,0 +1,38 @@
+.item{
+    display: none;
+}
+.burger{
+    display: block;
+}
+#firstrow{
+    flex-direction: column;
+}
+#secondrow{
+    flex-direction: column;
+}
+.tile1{
+    width: 55%;
+}
+.tile2{
+    width: 55%;
+}
+.prabal{
+    width: 100%;
+    margin-top: 30px;
+    display: none;
+    position:fixed;
+    justify-content: right;
+    z-index: 2;
+}
+.prabal ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    background-color: rgb(0,0,0,0.75);
+}
+.prabal ul li{
+    padding-top: 20px;
+}
+.show{
+    display: flex;
+}
