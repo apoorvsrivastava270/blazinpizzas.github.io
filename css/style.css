@@ -96,7 +96,7 @@
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    background: url("/images/pizzamain.jpg");
+    background: url("../images/pizzamain.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -153,31 +153,31 @@
 
 /* Dominos */
 #Dominos{
-    background-image: url("/images/dominostile.jpg");
+    background-image: url("../images/dominostile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
 }
 #PizzaHut{
-    background-image: url("/images/pizzahuttile.jpg");
+    background-image: url("../images/pizzahuttile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #LaPinoz{
-    background-image: url("/images/lapinoztile.jpg");
+    background-image: url("../images/lapinoztile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
 }
 #USPizza{
-    background-image: url("/images/uspizzatile.jpg");
+    background-image: url("../images/uspizzatile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
 }
 #OvenStory{
-    background-image: url("/images/ovenstorytile.jpg");
+    background-image: url("../images/ovenstorytile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
